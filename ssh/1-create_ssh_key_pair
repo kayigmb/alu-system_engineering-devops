@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script generate
+
+ssh-keygen -t rsa -b 4096 -f school -N "betty"

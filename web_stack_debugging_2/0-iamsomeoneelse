@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A Bash script
+
+sudo -u "$1" whoami
